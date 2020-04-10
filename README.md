@@ -15,4 +15,4 @@ python scrape.py
 Enter valid job title. Example : Python Developer, Java Developer etc.
 Then let it process all the data from Indeed. 
 
-Once the web scraping is finished you see a excel file created on the working directory with all the data.
+Once the web scraping is finished you see a excel file created in the working directory with all the data.
