@@ -5,7 +5,12 @@ Requirements:
 selenium==3.141.0
 XlsxWriter==1.2.7
 ```
-Install all requirements using pip in Python 3.8 environment.
+Install all requirements using pip in Python 3.8 environment. 
+
+You can also use requirements.txt to install all requirements
+```
+pip install -r requirements.txt
+```
 
 Run the python file.
 ```
